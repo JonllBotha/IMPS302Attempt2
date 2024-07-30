@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import requests
 from bs4 import BeautifulSoup
-import re
 
 if __name__ == '__main__':
     url = 'https://olympics.com/en/paris-2024/schedule/'
